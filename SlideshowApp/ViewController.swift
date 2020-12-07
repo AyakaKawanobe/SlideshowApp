@@ -14,7 +14,7 @@ class ViewController: UIViewController {
     var index: Int = 0
     
     //スライドショーさせる画像を宣言
-    var img: [UIImage] = [UIImage(named: "img1")!, UIImage(named: "img2")!, UIImage(named: "img3")!]
+    var img: [UIImage] = [UIImage(named: "img1.jpg")!, UIImage(named: "img2.jpg")!, UIImage(named: "img3.jpg")!]
     
     //自動送りのタイマー
     var timer: Timer!
